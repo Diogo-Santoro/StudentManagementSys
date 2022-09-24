@@ -1,1 +1,1 @@
-create database sms
+select * from students
